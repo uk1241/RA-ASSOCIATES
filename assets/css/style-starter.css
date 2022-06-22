@@ -3906,7 +3906,7 @@ textarea.form-control {
 .valid-tooltip {
   position: absolute;
   top: 100%;
-  z-index: 5;
+  z-index: 5;background
   display: none;
   max-width: 100%;
   padding: 0.25rem 0.5rem;
@@ -9551,13 +9551,13 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 :root {
-  --theme-color: #222042;
-  --secondary-color: #da8502;
+  --theme-color: #890F0D;
+  --secondary-color: #B22727;
   --opposite-color: #da8502;
-  --text-color: #585858;
-  --title-color: #1A1D2D;
+  --text-color: #B22727;
+  --title-color: #00092C;
   --white-color: #ffffff;
-  --light-bg-color: #f6f6f6;
+  --light-bg-color: #890F0D;
   --card-curve: 4px;
   --card-box-shadow: 0px 9px 24px 5px rgba(0, 0, 0, 0.04);
   --card-box-shadow: 1px 5px 7.5px #C4C4C433;
@@ -9626,7 +9626,7 @@ p {
   padding: 0; }
 
 span.diff {
-  color: var(--secondary-color); }
+  color: var(--red); }
 
 .btn-theme {
   padding: 12px 30px;
@@ -9860,7 +9860,7 @@ h4.sub-title {
   text-align: right; }
 
 .w3l-bootstrap-header p span.fa {
-  color: var(--opposite-color); }
+  color: var(--red); }
 
 .w3l-bootstrap-header p a {
   font-size: 20px;
